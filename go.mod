@@ -1,3 +1,3 @@
-module github.com/LucasHillebrand/FileSys
+module FileSys
 
 go 1.19
